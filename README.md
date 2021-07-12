@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">Aspiring Backend Developer</h3>
+<h3 align="center">Aspiring Machine Learning Engineer and Quantum Computing Scientist</h3>
 
 - 🔭 I’m currently working on [OpenCV](https://github.com/opencv)
 
