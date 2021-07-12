@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OpenCV](https://github.com/opencv)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Qiskit**
 
 - 📫 How to reach me **anthonysecora@gmail.com**
 
