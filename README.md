@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthonysecora/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/anthonysecora/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.twitter.com/in/anthonysecora/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://www.twitter.com/in/anthonysecora/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthonysecora/" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="https://www.linkedin.com/in/anthonysecora/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.twitter.com/in/anthonysecora/" target="blank"><img align="center" src="https://learning-tribes.com/wp-content/uploads/2019/08/twitter-png-1024x1024.png" alt="https://www.twitter.com/in/anthonysecora/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
