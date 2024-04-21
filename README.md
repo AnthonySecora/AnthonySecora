@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">Aspiring Machine Learning Engineer and Quantum Computing Scientist</h3>
+<h1 align="center">Hi 👋, I'm Anthony and welcome to my GitHub!</h1>
+<h3 align="center">Aspiring Machine Learning Engineer, Cybersecurity Analyst/Engineer, or Quantum Computing Scientist. Remote or <25% hybrid positions are my preference, but in-person is cool too!</h3>
 
-- 🔭 I’m currently working on **neural networks**.
+- 🔭 I’m currently working on **developing malware and creating neural networks**.
 
-- 🌱 I’m currently learning **Python and Qiskit**.
+- 🌱 I’m currently learning **Python, C++, and Qiskit**.
 
 - 📫 How to reach me **anthonysecora@gmail.com**.
 
